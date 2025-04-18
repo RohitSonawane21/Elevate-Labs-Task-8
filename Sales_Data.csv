@@ -1,0 +1,1001 @@
+Order ID,Order Date,Region,Category,Sales,Customer Name,Profit
+ORD00001,2025-01-27,East,Furniture,3720.67,Lisa Sullivan,534.42
+ORD00002,2023-10-29,West,Furniture,740.71,Natalie Hicks,213.09
+ORD00003,2025-03-28,East,Technology,3716.31,Amber Cunningham,865.89
+ORD00004,2023-10-07,East,Technology,2138.51,Cheryl Jimenez,426.98
+ORD00005,2023-09-17,East,Furniture,1132.26,Carla Silva,100.78
+ORD00006,2023-05-08,East,Technology,1034.25,Tracy Mcdaniel,92.05
+ORD00007,2025-02-07,South,Furniture,2273.58,Greg Clark,146.69
+ORD00008,2024-12-27,Central,Furniture,3806.1,Patricia Middleton,1014.49
+ORD00009,2024-10-02,West,Technology,2141.94,James Murphy,428.99
+ORD00010,2023-06-18,Central,Furniture,1115.8,Michael Gonzalez,253.31
+ORD00011,2023-11-26,Central,Furniture,509.09,William Robinson,28.07
+ORD00012,2024-10-03,East,Office Supplies,4245.1,Vanessa Jones,1241.6
+ORD00013,2024-12-10,Central,Furniture,3662.17,Brent Santana,945.25
+ORD00014,2023-07-20,East,Office Supplies,440.06,Matthew Owens,45.36
+ORD00015,2023-05-20,Central,Technology,3111.67,Joshua Welch,297.03
+ORD00016,2024-10-31,Central,Technology,1001.83,Ryan Hernandez,96.03
+ORD00017,2025-02-28,East,Furniture,3323.25,Cassandra Casey,418.93
+ORD00018,2024-07-23,Central,Furniture,4283.82,Elijah Rodriguez,776.18
+ORD00019,2025-03-25,East,Office Supplies,1425.97,Yvette Alvarez,225.28
+ORD00020,2023-09-25,Central,Furniture,1882.4,Justin Brooks,231.17
+ORD00021,2023-09-09,West,Technology,1371.54,Matthew Robinson,278.37
+ORD00022,2023-05-29,East,Technology,3193.14,Pamela Jefferson,271.01
+ORD00023,2023-11-05,West,Furniture,2338.19,Katie Murphy,287.68
+ORD00024,2024-10-02,Central,Technology,3456.4,Morgan Brown,489.39
+ORD00025,2023-05-26,West,Technology,1655.2,Ryan Carpenter,271.48
+ORD00026,2024-09-10,East,Furniture,4117.92,Natasha Dunlap,1014.22
+ORD00027,2024-02-18,Central,Office Supplies,1375.32,Veronica Jones,137.42
+ORD00028,2023-07-16,West,Technology,4388.02,Anna Crawford,783.52
+ORD00029,2024-05-17,Central,Furniture,3294.42,Clayton Cherry,652.64
+ORD00030,2025-03-05,South,Technology,2321.32,Christine Nelson,143.02
+ORD00031,2023-05-07,Central,Furniture,1270.81,Steve Martinez,256.56
+ORD00032,2023-05-09,Central,Technology,2943.7,Joyce Griffin,272.68
+ORD00033,2024-04-20,South,Office Supplies,1135.64,Brooke Nichols,75.25
+ORD00034,2023-06-14,West,Technology,2492.9,Patricia Mann,716.01
+ORD00035,2023-04-30,East,Furniture,806.56,Taylor Good,235.04
+ORD00036,2024-10-29,West,Technology,2139.69,Angela Wolfe,539.41
+ORD00037,2024-03-15,East,Office Supplies,1939.02,Samantha Olson,244.61
+ORD00038,2024-01-28,South,Technology,1294.5,Jasmine Rios,96.33
+ORD00039,2025-03-15,East,Technology,3617.57,Ronald Smith,799.69
+ORD00040,2023-11-11,Central,Technology,1733.87,Ronald Simmons,277.49
+ORD00041,2023-12-13,Central,Office Supplies,832.88,Timothy Patton,67.05
+ORD00042,2024-04-20,East,Technology,4385.47,Chad Phillips,762.17
+ORD00043,2024-10-23,Central,Technology,3821.71,Christine Davis,223.94
+ORD00044,2023-04-26,East,Technology,1527.3,Courtney Schmidt,423.57
+ORD00045,2023-10-19,West,Furniture,1900.87,Charles Barber,218.02
+ORD00046,2024-02-27,West,Technology,4769.82,Anthony Coleman MD,1028.52
+ORD00047,2024-09-10,East,Technology,1654.57,Andrew Allen,211.67
+ORD00048,2023-05-17,East,Furniture,4649.04,Nicholas Ray II,836.91
+ORD00049,2024-03-28,Central,Furniture,336.73,Lisa Bridges,62.86
+ORD00050,2024-01-27,East,Furniture,3672.94,Candice Farrell,353.39
+ORD00051,2024-03-07,East,Technology,3840.88,Brandy Cortez,1123.06
+ORD00052,2024-07-28,West,Technology,2402.65,Elizabeth Richards,585.73
+ORD00053,2024-09-01,West,Office Supplies,2661.99,Bryan Hayden,758.33
+ORD00054,2023-11-15,South,Furniture,4648.12,Ruth Leblanc,1272.22
+ORD00055,2025-01-19,West,Technology,1593.0,Alexis Butler,317.76
+ORD00056,2024-08-12,Central,Office Supplies,4503.09,Jordan Wilson,1262.98
+ORD00057,2023-05-10,South,Furniture,1277.13,David Washington,92.11
+ORD00058,2023-12-20,East,Office Supplies,154.12,Megan Alvarez,15.26
+ORD00059,2024-06-25,West,Technology,1140.08,Edward Miller,69.89
+ORD00060,2024-03-07,East,Technology,3173.96,Isaac Smith,416.84
+ORD00061,2024-04-12,West,Furniture,4531.83,Sharon Jimenez,666.95
+ORD00062,2025-01-04,Central,Furniture,2595.07,Sally Vargas,305.8
+ORD00063,2024-03-10,Central,Technology,2452.8,Katrina Brown DVM,630.82
+ORD00064,2023-06-09,West,Technology,4680.8,Mrs. Michelle Griffin DDS,651.51
+ORD00065,2023-08-14,South,Furniture,3933.87,Haley Lee,472.98
+ORD00066,2025-03-13,South,Furniture,516.91,Edward Clark,95.98
+ORD00067,2023-11-07,South,Office Supplies,2146.71,Kelly Dennis,182.97
+ORD00068,2024-01-20,South,Technology,318.15,Lori Sullivan,79.71
+ORD00069,2023-10-27,East,Furniture,2042.98,Steven Wang,140.23
+ORD00070,2024-01-09,Central,Furniture,1280.85,Heather Rivera,380.06
+ORD00071,2024-11-10,West,Technology,2270.64,Lisa Williams,551.9
+ORD00072,2023-11-18,South,Furniture,1428.8,Stephanie Shelton,142.42
+ORD00073,2025-01-19,West,Furniture,2243.5,Melvin Neal,115.27
+ORD00074,2023-12-02,East,Furniture,3278.12,Tammy Reynolds,832.2
+ORD00075,2023-07-14,East,Furniture,4635.52,Rita Ruiz,1050.94
+ORD00076,2024-11-18,West,Furniture,2061.75,Erin Avery,478.85
+ORD00077,2025-02-20,South,Furniture,4330.02,Rebecca Chandler,1051.41
+ORD00078,2023-11-01,East,Furniture,1925.92,Alexander Austin,131.95
+ORD00079,2023-11-21,South,Office Supplies,4636.26,Brian Wong,647.3
+ORD00080,2023-05-10,South,Office Supplies,2143.89,Melissa Watson,169.3
+ORD00081,2024-04-12,South,Furniture,989.99,Jennifer Nguyen,263.12
+ORD00082,2024-07-05,West,Furniture,2916.94,Angela Mitchell,600.38
+ORD00083,2023-08-05,East,Technology,1602.34,Harold White,212.67
+ORD00084,2024-06-17,East,Technology,2410.1,Paul Sandoval,158.8
+ORD00085,2025-02-22,West,Furniture,4805.86,Tammy Mckee,613.93
+ORD00086,2024-03-19,East,Furniture,389.18,Carla Fowler,51.1
+ORD00087,2024-03-24,East,Technology,4316.01,Joseph Edwards,1003.05
+ORD00088,2025-02-23,South,Furniture,4710.9,Nicole Silva,986.41
+ORD00089,2023-12-03,West,Technology,2992.87,Kelly Davis,813.47
+ORD00090,2025-03-13,East,Office Supplies,3304.0,Daniel Monroe,555.25
+ORD00091,2023-08-23,Central,Office Supplies,1061.08,Stephanie Phillips,84.78
+ORD00092,2023-07-17,Central,Furniture,1364.79,Kevin Day,311.6
+ORD00093,2024-10-12,West,Technology,3245.23,Mike Hernandez,779.49
+ORD00094,2023-09-15,South,Office Supplies,4648.64,Kenneth Campbell,884.73
+ORD00095,2024-02-21,East,Furniture,2318.51,Taylor Duncan,562.8
+ORD00096,2025-03-27,East,Furniture,2711.29,Randy Rocha,470.27
+ORD00097,2023-10-07,Central,Furniture,4669.63,Amy Dickerson MD,843.72
+ORD00098,2024-03-04,East,Furniture,1879.16,Rodney Mitchell,294.81
+ORD00099,2023-11-27,West,Office Supplies,4177.04,Tyler Donovan,235.4
+ORD00100,2025-02-18,Central,Technology,4920.07,Johnathan Blair,378.71
+ORD00101,2024-09-24,East,Technology,4094.67,Connie Garza,236.91
+ORD00102,2024-06-10,Central,Technology,562.75,Tammy Warren,117.67
+ORD00103,2024-12-20,West,Office Supplies,621.37,Jennifer Parrish,79.9
+ORD00104,2023-05-31,East,Technology,2788.46,James Valdez,493.96
+ORD00105,2025-02-08,Central,Office Supplies,3043.91,Cynthia Stewart,842.83
+ORD00106,2023-06-16,Central,Furniture,3453.11,Miguel Frank,387.86
+ORD00107,2024-12-30,Central,Technology,2468.23,Heather Rodriguez,376.64
+ORD00108,2024-03-25,East,Furniture,3189.71,Dominique Hunter,761.98
+ORD00109,2024-11-07,Central,Furniture,67.55,Audrey Deleon,7.24
+ORD00110,2024-12-22,West,Technology,4900.0,Lisa Tucker,339.3
+ORD00111,2024-03-02,West,Technology,2237.09,Vincent Fowler II,273.9
+ORD00112,2024-05-28,South,Technology,97.87,Austin Brown,8.84
+ORD00113,2024-02-13,East,Technology,4524.45,Jennifer Hamilton,1277.82
+ORD00114,2023-08-12,East,Office Supplies,2933.42,Robert Bell,739.31
+ORD00115,2023-07-25,West,Office Supplies,680.86,Jennifer Moore,141.86
+ORD00116,2024-04-15,Central,Office Supplies,4499.96,Crystal Smith,1205.38
+ORD00117,2023-12-29,East,Office Supplies,1089.88,Natasha Jones,273.47
+ORD00118,2024-05-08,West,Technology,558.83,Justin Williams,54.01
+ORD00119,2024-11-03,South,Technology,3759.91,John Miller,1026.98
+ORD00120,2025-01-26,West,Furniture,4882.22,Susan Griffin,902.41
+ORD00121,2024-10-27,West,Office Supplies,172.69,Kelli Jones,43.49
+ORD00122,2024-07-22,Central,Office Supplies,4021.06,Gerald Adams,1101.86
+ORD00123,2025-01-30,West,Office Supplies,838.03,Olivia Bell,108.53
+ORD00124,2025-03-28,East,Office Supplies,4367.23,Kayla Anderson,338.52
+ORD00125,2023-07-04,South,Furniture,1037.89,Darrell Horn,111.04
+ORD00126,2024-09-02,South,Office Supplies,1560.69,Adam Rowe,244.68
+ORD00127,2024-03-24,West,Furniture,167.14,Michael Marks,42.54
+ORD00128,2024-05-11,West,Office Supplies,1674.9,Michael White,444.15
+ORD00129,2024-08-31,East,Office Supplies,1788.17,Miranda Green,92.52
+ORD00130,2025-02-10,South,Technology,4906.69,Jennifer Lewis,871.85
+ORD00131,2024-06-05,Central,Furniture,620.94,Steven Smith,95.84
+ORD00132,2023-04-27,Central,Furniture,2923.92,Tanner Hill,308.55
+ORD00133,2024-03-09,Central,Furniture,586.59,Michelle Lopez,46.91
+ORD00134,2023-09-17,South,Office Supplies,3656.3,Anthony Acosta,491.42
+ORD00135,2024-06-15,Central,Office Supplies,3050.73,Katie Morrow,871.68
+ORD00136,2024-07-06,East,Office Supplies,4502.55,Ryan Maynard,588.94
+ORD00137,2025-03-19,West,Office Supplies,269.71,Lauren Barber,48.47
+ORD00138,2024-02-26,South,Furniture,2623.61,William Dunn,592.29
+ORD00139,2023-09-23,West,Office Supplies,2184.92,Raymond Miller II,307.87
+ORD00140,2025-02-07,Central,Technology,1603.88,Jennifer Wood,469.85
+ORD00141,2024-07-25,East,Technology,4505.23,Peter Moran,1309.27
+ORD00142,2024-07-10,Central,Technology,2071.54,Steven Barnes,233.97
+ORD00143,2024-10-20,South,Technology,1513.49,Vickie Owens,263.82
+ORD00144,2025-01-27,West,Furniture,2131.21,William Huff,266.87
+ORD00145,2023-04-21,South,Technology,3753.27,David Edwards,454.93
+ORD00146,2025-04-15,West,Technology,2867.07,Brian Guerrero,169.79
+ORD00147,2024-09-08,South,Technology,4176.94,Donna Medina,845.38
+ORD00148,2025-01-17,Central,Office Supplies,1090.4,Alan Harvey,191.55
+ORD00149,2024-08-14,Central,Office Supplies,2236.84,Kenneth Rice,140.63
+ORD00150,2024-02-19,West,Technology,2392.27,Brittany Burton,286.26
+ORD00151,2024-05-23,West,Technology,469.74,Wendy Long,130.15
+ORD00152,2023-10-21,Central,Furniture,4101.2,Wendy Shah,450.68
+ORD00153,2024-06-16,West,Technology,1586.58,Matthew Ware,136.8
+ORD00154,2025-01-07,West,Furniture,170.91,Heather Garcia,29.46
+ORD00155,2023-06-21,West,Office Supplies,3075.81,Nathan Reilly,911.71
+ORD00156,2023-08-25,East,Office Supplies,2101.48,Theresa Bush,232.24
+ORD00157,2023-04-20,West,Technology,3496.95,Rodney Clark,762.45
+ORD00158,2025-03-11,South,Office Supplies,1257.72,Sean Wu,302.36
+ORD00159,2025-03-03,East,Furniture,3903.18,Richard Cordova,427.04
+ORD00160,2025-03-31,West,Furniture,4030.34,Kenneth Peters,935.26
+ORD00161,2025-03-22,South,Furniture,2809.16,Justin Stuart,398.75
+ORD00162,2023-09-23,East,Office Supplies,710.03,Jennifer King,147.74
+ORD00163,2023-07-31,South,Technology,2679.1,Bryan Beck,558.28
+ORD00164,2024-07-08,Central,Office Supplies,3082.63,Matthew Brown,567.03
+ORD00165,2023-04-27,South,Technology,2257.27,David Mathews,163.82
+ORD00166,2024-02-15,West,Technology,4314.4,Maria Gallegos,1116.68
+ORD00167,2023-10-09,South,Office Supplies,3771.3,James Buck,491.0
+ORD00168,2025-01-22,Central,Technology,2448.76,David Nelson,236.62
+ORD00169,2023-08-12,West,Office Supplies,2227.37,Mr. Walter Griffin,134.07
+ORD00170,2023-12-31,Central,Furniture,1394.99,Charles Brown III,275.82
+ORD00171,2024-03-19,Central,Technology,448.86,Margaret Sherman,98.48
+ORD00172,2024-03-11,West,Furniture,1946.02,Glenda Ortiz,105.37
+ORD00173,2023-06-20,West,Technology,1109.07,Patty Brown,197.44
+ORD00174,2024-03-24,South,Office Supplies,1687.86,Heidi Jones,179.97
+ORD00175,2025-03-29,South,Office Supplies,358.22,Patricia Harper,75.69
+ORD00176,2023-07-17,South,Office Supplies,4528.95,Christopher Torres,423.87
+ORD00177,2024-02-29,East,Technology,1932.89,David Smith,430.52
+ORD00178,2023-04-29,East,Office Supplies,1528.13,Mark Lopez,224.15
+ORD00179,2024-07-13,South,Office Supplies,2714.19,Evan Dunn,771.33
+ORD00180,2023-10-17,West,Office Supplies,1136.14,Adrienne Lowe,95.87
+ORD00181,2024-09-13,South,Office Supplies,193.67,Tabitha James,26.2
+ORD00182,2023-06-24,Central,Technology,3411.75,Jacqueline Acevedo,267.37
+ORD00183,2024-10-18,South,Technology,866.97,Travis Perez,243.77
+ORD00184,2023-08-06,South,Furniture,4904.57,Brian Mccarty,1320.97
+ORD00185,2023-07-17,East,Office Supplies,2979.87,Susan Brown,341.15
+ORD00186,2025-03-28,East,Furniture,3231.61,Bobby Richardson,694.78
+ORD00187,2023-10-26,West,Office Supplies,949.56,Maria Cooper,241.48
+ORD00188,2024-11-10,Central,Office Supplies,1670.4,Gary Collins,315.37
+ORD00189,2024-10-19,South,Office Supplies,1720.63,Michael Taylor,313.86
+ORD00190,2025-02-27,South,Office Supplies,3772.45,Jamie Smith,416.72
+ORD00191,2023-10-27,South,Office Supplies,4182.81,Kevin Krueger,306.5
+ORD00192,2023-11-29,South,Furniture,3757.67,Travis Massey,1030.74
+ORD00193,2024-10-19,East,Office Supplies,1159.9,Kayla Lane,319.09
+ORD00194,2024-08-25,East,Technology,249.28,Tamara Jackson,51.92
+ORD00195,2024-03-19,East,Furniture,1036.84,Alexis Wood,139.72
+ORD00196,2024-04-03,East,Technology,804.29,Michelle Hughes,110.43
+ORD00197,2024-09-04,West,Office Supplies,3363.82,Denise Lawson,778.69
+ORD00198,2023-11-26,West,Office Supplies,3512.35,Kelsey Smith,963.36
+ORD00199,2024-07-26,Central,Furniture,3049.17,Joel Lang,828.68
+ORD00200,2023-06-29,East,Furniture,4825.37,Ms. Kimberly Obrien MD,1182.07
+ORD00201,2024-06-21,East,Technology,177.11,Stacy Griffin,37.28
+ORD00202,2023-09-03,Central,Technology,3402.87,Taylor Martinez,241.72
+ORD00203,2023-07-24,South,Office Supplies,4710.28,Noah Elliott,425.84
+ORD00204,2023-09-05,West,Furniture,2980.88,Eric Hodge,818.66
+ORD00205,2023-12-15,West,Furniture,3501.11,Sara Lopez,705.85
+ORD00206,2025-01-28,Central,Technology,3022.04,Patricia Brown,158.05
+ORD00207,2023-10-10,East,Technology,3924.04,Kristin Blackburn PhD,295.75
+ORD00208,2023-06-23,Central,Technology,2170.47,Xavier Garcia,468.55
+ORD00209,2025-01-21,Central,Furniture,2554.51,Ryan Bishop,130.96
+ORD00210,2025-01-17,Central,Furniture,4255.4,Emily Andrade,383.85
+ORD00211,2023-06-01,South,Furniture,2195.94,Mark Mejia,411.04
+ORD00212,2023-08-12,Central,Technology,4463.3,Madison Mcdonald,995.2
+ORD00213,2023-08-01,South,Technology,807.31,Lisa Scott,171.95
+ORD00214,2024-10-24,West,Technology,2632.65,Douglas Reed,279.24
+ORD00215,2024-09-10,Central,Technology,4050.59,Erika Todd,923.72
+ORD00216,2023-08-17,South,Office Supplies,2206.09,Samantha West,241.15
+ORD00217,2024-07-11,Central,Office Supplies,4265.98,Craig Fitzgerald,560.34
+ORD00218,2023-11-16,East,Office Supplies,4414.07,Melissa Smith,1044.47
+ORD00219,2023-07-03,West,Office Supplies,2870.76,Thomas Thomas,609.77
+ORD00220,2024-04-22,South,Office Supplies,192.06,John Harrison,50.38
+ORD00221,2025-03-25,Central,Furniture,2463.37,Anna Nash,528.15
+ORD00222,2025-03-03,Central,Office Supplies,1734.68,Donna Curry,333.19
+ORD00223,2023-10-20,Central,Technology,100.25,Cathy Brown,7.36
+ORD00224,2024-09-27,West,Furniture,1244.71,Dr. Matthew Boyer DDS,176.66
+ORD00225,2024-05-17,South,Office Supplies,2798.12,Robert Garcia,325.42
+ORD00226,2025-04-07,West,Technology,2406.66,Debra Reyes,267.13
+ORD00227,2023-08-01,South,Office Supplies,3975.02,Jessica Clark,1165.69
+ORD00228,2024-01-31,East,Office Supplies,1146.9,Julie Dyer,170.06
+ORD00229,2024-02-14,West,Office Supplies,3336.6,David Lopez,910.93
+ORD00230,2024-05-19,Central,Office Supplies,2789.69,Melissa Camacho,579.65
+ORD00231,2025-03-24,Central,Office Supplies,4983.33,Chad Flowers,1239.37
+ORD00232,2023-09-20,Central,Office Supplies,3529.13,Katherine Elliott DDS,619.92
+ORD00233,2023-08-21,Central,Office Supplies,1294.45,Ryan Holmes,251.42
+ORD00234,2024-08-26,East,Technology,1003.29,Jessica Wall,173.7
+ORD00235,2023-07-05,East,Technology,2702.53,Tammy Robinson,267.04
+ORD00236,2024-07-11,West,Furniture,1121.1,Peggy Johnson,258.54
+ORD00237,2023-11-21,South,Office Supplies,3636.7,Denise Cox,437.11
+ORD00238,2024-08-13,Central,Furniture,4171.51,Sean Gutierrez,233.93
+ORD00239,2023-08-03,Central,Furniture,1836.36,Jeffrey Harvey,388.15
+ORD00240,2023-07-11,Central,Furniture,3554.69,Maria Simon,335.13
+ORD00241,2024-08-05,West,Office Supplies,275.3,Patricia Myers,78.49
+ORD00242,2025-04-15,East,Technology,1496.08,Russell Raymond,431.59
+ORD00243,2024-10-15,West,Technology,4348.88,Deborah Johnson,1212.1
+ORD00244,2024-07-07,South,Furniture,4369.96,Michael Steele,622.89
+ORD00245,2023-11-08,Central,Office Supplies,2419.64,Scott Webster,130.33
+ORD00246,2023-12-03,Central,Furniture,4829.21,Ashley Esparza,1362.22
+ORD00247,2024-12-22,Central,Office Supplies,614.73,Brenda Gibson,96.54
+ORD00248,2023-05-11,East,Office Supplies,2484.15,Christopher Williams,724.54
+ORD00249,2023-11-15,East,Furniture,788.53,Aaron Murphy,229.39
+ORD00250,2024-05-15,Central,Furniture,4969.89,Kayla Gordon,1308.34
+ORD00251,2024-08-24,East,Technology,3834.0,Robert Cook,473.93
+ORD00252,2023-08-31,West,Technology,1932.87,Sarah George,282.73
+ORD00253,2025-02-01,South,Office Supplies,4307.82,Christina Elliott,1132.03
+ORD00254,2025-02-23,South,Office Supplies,2864.72,Chelsea Barton,370.21
+ORD00255,2023-07-12,East,Technology,4802.54,Maria Joseph,443.63
+ORD00256,2024-08-26,East,Furniture,3146.3,Rodney Knight,595.28
+ORD00257,2024-07-28,Central,Technology,451.88,Kylie Watts,128.35
+ORD00258,2023-06-27,West,Furniture,2782.36,Justin Hardin,623.27
+ORD00259,2024-10-06,West,Furniture,2072.16,Brian Williams,398.92
+ORD00260,2024-03-23,South,Office Supplies,211.57,Travis Hartman,15.72
+ORD00261,2023-06-05,Central,Technology,1449.46,Kerry Lara,295.33
+ORD00262,2025-02-10,South,Furniture,3452.56,Shelley Cooper,1027.18
+ORD00263,2023-05-19,Central,Technology,2969.46,Charles Nixon,252.47
+ORD00264,2024-07-07,West,Office Supplies,618.14,Mrs. Christine Middleton,111.01
+ORD00265,2023-08-31,West,Technology,787.5,Lisa Baker,212.11
+ORD00266,2025-01-10,Central,Furniture,403.48,Kyle Ramirez,94.9
+ORD00267,2023-05-02,West,Office Supplies,2995.47,Kathleen Brown,671.75
+ORD00268,2024-07-23,Central,Office Supplies,665.55,Ms. Kylie Bright,150.16
+ORD00269,2024-03-29,Central,Technology,2042.42,Charles Robertson,285.68
+ORD00270,2024-04-26,Central,Technology,2722.91,Brian Hobbs,336.0
+ORD00271,2025-02-16,South,Furniture,3010.28,Janice Gallegos,759.61
+ORD00272,2023-05-31,South,Technology,1645.49,Timothy Burke,415.53
+ORD00273,2024-03-19,Central,Furniture,502.07,Andrew Smith,133.94
+ORD00274,2023-10-15,East,Technology,4116.04,Jessica Weeks,1145.54
+ORD00275,2024-01-05,East,Furniture,2378.98,Kristin Davies,423.07
+ORD00276,2025-01-24,South,Office Supplies,948.37,Wendy Jennings,166.32
+ORD00277,2023-08-16,South,Technology,4080.51,William Garcia,1018.39
+ORD00278,2024-08-09,East,Office Supplies,1772.41,Erica Fox,376.62
+ORD00279,2024-09-27,Central,Office Supplies,3367.16,Katherine Paul,759.27
+ORD00280,2025-04-02,West,Office Supplies,2087.64,Gregory Scott,519.71
+ORD00281,2024-12-15,South,Office Supplies,3329.79,Jason Brown,907.37
+ORD00282,2023-08-21,South,Technology,231.65,Charles Thomas,31.16
+ORD00283,2024-02-29,East,Office Supplies,1299.37,Andrea Smith,186.97
+ORD00284,2024-07-17,East,Office Supplies,4331.31,Michael Griffin,318.33
+ORD00285,2023-06-14,East,Technology,4353.37,Michael Rogers,847.04
+ORD00286,2024-07-14,South,Office Supplies,318.31,Karen Marshall,18.78
+ORD00287,2023-09-06,Central,Technology,3794.39,Sara Williams,631.38
+ORD00288,2024-01-10,South,Furniture,1057.61,Sherry Hutchinson,196.36
+ORD00289,2024-11-30,West,Office Supplies,2218.67,Emily Chase,269.87
+ORD00290,2023-11-06,South,Furniture,192.9,Bruce Gilbert,38.14
+ORD00291,2023-11-05,West,Technology,833.97,Diane James,48.06
+ORD00292,2024-10-01,East,Technology,2069.55,Justin Fox,122.8
+ORD00293,2023-06-10,West,Furniture,2334.17,Franklin White,596.73
+ORD00294,2024-08-08,East,Technology,4169.11,Brian Malone,583.87
+ORD00295,2023-12-27,South,Technology,1494.71,Mary Mendoza,122.22
+ORD00296,2024-03-08,Central,Office Supplies,4181.88,Matthew Floyd,755.08
+ORD00297,2023-06-23,South,Furniture,2311.09,Ryan Davis,560.44
+ORD00298,2023-08-27,West,Office Supplies,993.52,Nancy Moss,103.28
+ORD00299,2023-05-23,West,Furniture,1417.42,Elizabeth Young,291.6
+ORD00300,2024-11-07,South,Office Supplies,4674.53,Dan Patrick,333.47
+ORD00301,2024-01-12,Central,Furniture,1450.05,Kristen Hernandez,91.24
+ORD00302,2024-10-23,Central,Technology,2920.62,Danielle Potter,534.0
+ORD00303,2023-06-22,South,Furniture,2260.41,Jonathan Taylor,418.53
+ORD00304,2024-08-30,South,Office Supplies,1695.58,Ashley Martin,354.98
+ORD00305,2023-07-16,South,Office Supplies,4667.62,Mr. John Turner,1080.66
+ORD00306,2024-10-09,West,Technology,1232.09,Wendy Ross,362.19
+ORD00307,2025-03-20,South,Furniture,4287.26,Jesse Gilmore,767.74
+ORD00308,2024-02-03,South,Furniture,1624.97,Michael Salinas,212.45
+ORD00309,2024-01-21,South,Technology,4571.48,Joshua Blackwell,1137.37
+ORD00310,2023-06-01,South,Office Supplies,4942.65,Heather Johnson,581.79
+ORD00311,2023-06-15,West,Office Supplies,4825.88,Tracie Bennett,770.9
+ORD00312,2024-12-17,West,Technology,4828.5,Martin Kane,336.13
+ORD00313,2024-03-04,Central,Furniture,4377.24,Patricia Martinez,246.6
+ORD00314,2025-01-29,South,Furniture,2653.46,Lauren Nelson,771.26
+ORD00315,2024-06-02,South,Furniture,3626.1,Peter Wade,939.14
+ORD00316,2023-08-20,South,Technology,4851.29,Kathleen Randolph,1086.66
+ORD00317,2023-09-06,East,Office Supplies,3918.55,Joseph Lewis,596.55
+ORD00318,2023-06-15,Central,Office Supplies,3135.13,Erik Fry,292.58
+ORD00319,2024-02-24,South,Technology,447.56,Jennifer Jones,39.88
+ORD00320,2023-05-28,Central,Technology,4303.74,Stephanie Young,484.43
+ORD00321,2024-06-09,South,Office Supplies,3152.66,Zachary Nguyen,590.51
+ORD00322,2024-03-28,South,Technology,227.7,Sarah Robertson,52.06
+ORD00323,2023-07-19,East,Furniture,3174.25,Christopher Rogers,682.62
+ORD00324,2023-09-27,Central,Furniture,3746.49,Derek Clark,449.52
+ORD00325,2023-06-10,South,Furniture,3813.83,Ryan Johnston,1101.11
+ORD00326,2023-10-20,East,Office Supplies,873.51,Janice Lambert,204.82
+ORD00327,2024-07-26,Central,Furniture,277.66,Mark Perkins,52.36
+ORD00328,2024-04-24,East,Office Supplies,1824.39,Norma Flores,370.22
+ORD00329,2024-09-14,South,Furniture,1258.78,Brian Hoffman,194.99
+ORD00330,2025-03-31,South,Technology,3424.91,Brandon Bowen,383.36
+ORD00331,2025-02-28,West,Furniture,916.59,Amanda Perez,127.4
+ORD00332,2023-12-02,South,Technology,3431.52,James Fitzpatrick IV,821.72
+ORD00333,2023-05-14,South,Technology,758.43,Douglas Andrews,40.65
+ORD00334,2024-06-23,South,Technology,1307.19,Amy Cline,103.29
+ORD00335,2024-05-04,Central,Technology,96.52,Margaret Levy,5.94
+ORD00336,2024-12-17,South,Office Supplies,3404.17,Olivia Clark,204.87
+ORD00337,2024-03-10,West,Furniture,2236.56,Calvin Williams,590.15
+ORD00338,2024-04-13,Central,Technology,1530.81,Alexandra Villanueva,345.83
+ORD00339,2025-04-13,South,Technology,1287.99,Matthew Nichols,217.08
+ORD00340,2023-04-30,Central,Furniture,4996.9,Victoria Miller,372.06
+ORD00341,2024-04-25,South,Furniture,1224.17,Eric Long,211.66
+ORD00342,2025-03-29,Central,Technology,1514.57,Jason Perez,255.01
+ORD00343,2023-09-08,Central,Furniture,4890.83,David Miller,456.32
+ORD00344,2024-08-10,South,Office Supplies,90.08,Margaret Hayes,14.27
+ORD00345,2024-04-09,East,Technology,3738.6,Ronald Harrell,559.39
+ORD00346,2025-02-21,Central,Furniture,3054.97,Wendy Yates,623.1
+ORD00347,2023-06-08,Central,Furniture,3201.26,Nicole Hammond,668.34
+ORD00348,2023-07-04,Central,Technology,3790.11,Kathryn Duncan,232.43
+ORD00349,2025-01-04,West,Technology,530.96,Stephen White,76.27
+ORD00350,2024-10-26,East,Office Supplies,3953.62,Patricia Phillips,816.28
+ORD00351,2024-08-25,East,Technology,1856.06,Phillip Brandt,326.27
+ORD00352,2023-08-28,West,Furniture,4552.66,Benjamin Robinson,1202.46
+ORD00353,2024-11-14,Central,Technology,2106.74,Glenn Rose,452.26
+ORD00354,2023-10-22,West,Furniture,3943.24,Matthew Colon,357.78
+ORD00355,2023-11-17,Central,Technology,2533.88,Lisa Francis,171.4
+ORD00356,2023-05-31,Central,Furniture,1322.0,Roy Reid,278.42
+ORD00357,2024-11-15,South,Office Supplies,3745.47,Mary Ward,212.1
+ORD00358,2024-05-05,Central,Furniture,2368.24,Claudia Butler,465.23
+ORD00359,2024-01-08,East,Furniture,3783.05,Jimmy Wilkerson,1078.39
+ORD00360,2025-02-10,West,Technology,3634.87,Kevin Dixon,704.69
+ORD00361,2024-11-08,South,Technology,1860.59,Annette Owens,273.59
+ORD00362,2025-02-26,South,Furniture,1359.07,Brandon Ferguson,286.52
+ORD00363,2023-09-27,East,Office Supplies,1874.5,Edward Chaney,308.47
+ORD00364,2025-03-24,Central,Technology,1936.08,Tony Solomon,360.89
+ORD00365,2024-10-29,Central,Furniture,3390.44,Sherry Miller,967.52
+ORD00366,2025-02-27,South,Furniture,3116.76,Edward Reed,456.69
+ORD00367,2024-10-06,Central,Technology,1145.77,Denise Miller MD,332.61
+ORD00368,2024-11-04,East,Technology,4128.08,Gerald Marshall,1140.74
+ORD00369,2023-07-29,Central,Technology,2071.06,Joann Phillips,204.93
+ORD00370,2023-09-23,West,Furniture,4733.99,Monica Wilson,318.79
+ORD00371,2024-08-23,Central,Office Supplies,624.8,James Mcdaniel,46.98
+ORD00372,2023-04-27,West,Technology,721.54,Christopher Davis,39.36
+ORD00373,2024-11-11,South,Office Supplies,3368.91,Jessica Morales,247.99
+ORD00374,2025-02-27,South,Technology,3724.23,Kara Todd,822.13
+ORD00375,2023-09-15,West,Office Supplies,3291.86,Dr. Justin Stout,223.18
+ORD00376,2024-07-29,South,Technology,2070.17,Grace Parker,268.59
+ORD00377,2025-04-06,Central,Furniture,3466.89,Anna Chang,905.62
+ORD00378,2023-08-24,West,Office Supplies,2251.24,Jordan Pham,125.66
+ORD00379,2024-09-01,West,Office Supplies,541.81,Mary Bernard,137.41
+ORD00380,2024-05-01,Central,Technology,4513.4,Catherine Bell,543.7
+ORD00381,2024-01-09,Central,Furniture,2020.79,Jennifer Sims,160.74
+ORD00382,2024-06-20,West,Furniture,4747.6,Jessica Franklin,1064.34
+ORD00383,2023-12-23,South,Furniture,3330.71,Jamie Campbell,690.24
+ORD00384,2023-10-12,East,Furniture,3944.63,Larry Dudley,1062.56
+ORD00385,2023-10-14,West,Furniture,3945.54,Michael Duarte,922.34
+ORD00386,2024-01-23,West,Furniture,4157.6,Sheri Clark,1043.02
+ORD00387,2024-12-27,West,Technology,1118.96,Abigail Williams,134.84
+ORD00388,2024-04-29,West,Office Supplies,3883.12,Laurie Webb,366.41
+ORD00389,2023-04-20,East,Office Supplies,4299.11,Curtis Horne,1021.7
+ORD00390,2024-11-12,West,Furniture,2724.07,Robin Johnson,685.67
+ORD00391,2023-12-13,West,Furniture,3322.24,Joseph Roberts,988.79
+ORD00392,2023-12-16,East,Furniture,123.56,Kathryn Stevenson,18.92
+ORD00393,2023-09-25,West,Technology,1652.67,Maria Garcia,236.34
+ORD00394,2024-06-13,West,Office Supplies,309.38,Joel Nielsen,75.52
+ORD00395,2025-02-24,South,Technology,612.56,Stephanie Clark,82.82
+ORD00396,2023-10-07,East,Office Supplies,2268.96,Eduardo Gomez,641.41
+ORD00397,2023-12-01,Central,Technology,2988.65,Billy Randolph,790.81
+ORD00398,2024-09-09,South,Technology,1146.67,Peter Taylor,180.31
+ORD00399,2024-08-10,East,Technology,3926.97,Elizabeth Miller,933.51
+ORD00400,2023-08-31,Central,Office Supplies,3234.54,Crystal Allen,771.88
+ORD00401,2023-05-21,East,Furniture,4993.0,Amanda Sanchez,378.37
+ORD00402,2024-01-27,South,Office Supplies,3446.18,Christina Rhodes,949.9
+ORD00403,2023-09-09,South,Technology,4553.02,Stephanie Moreno,802.76
+ORD00404,2023-12-04,East,Furniture,1644.45,Thomas Davies,421.99
+ORD00405,2023-09-12,West,Furniture,674.65,Stephen Robinson,87.71
+ORD00406,2024-06-29,Central,Office Supplies,4973.41,Ruth Ho,1362.12
+ORD00407,2024-04-30,Central,Office Supplies,2552.48,Maureen Benton,375.98
+ORD00408,2025-01-25,South,Furniture,3975.83,Gabriel Hernandez,209.56
+ORD00409,2024-04-09,East,Technology,3272.04,Jason King,904.21
+ORD00410,2024-03-12,West,Office Supplies,2285.2,Robert Butler,166.41
+ORD00411,2024-01-29,West,Office Supplies,1727.71,Mitchell Stanley,224.31
+ORD00412,2024-03-25,South,Office Supplies,2109.15,Theresa Martinez,606.41
+ORD00413,2023-12-25,East,Office Supplies,2162.48,Laura Ford,622.04
+ORD00414,2024-12-22,Central,Office Supplies,4770.28,William Vega,922.38
+ORD00415,2023-07-11,South,Furniture,501.56,Peggy Jones,104.3
+ORD00416,2023-10-20,East,Furniture,2187.79,Benjamin Nelson,354.67
+ORD00417,2024-11-28,Central,Furniture,2804.04,Jay Anderson,345.75
+ORD00418,2023-07-25,Central,Technology,655.04,Mathew Johnson,86.57
+ORD00419,2024-12-28,Central,Technology,4708.59,Timothy Craig,1027.08
+ORD00420,2024-03-23,South,Technology,304.66,Andrew Peterson,72.54
+ORD00421,2023-05-05,Central,Technology,1596.62,Whitney Escobar,395.79
+ORD00422,2024-11-22,East,Technology,2561.69,Robert Garcia,633.77
+ORD00423,2024-09-21,West,Technology,2436.84,Raymond Johnson,177.41
+ORD00424,2024-04-28,East,Office Supplies,4234.6,David Fischer,735.15
+ORD00425,2025-03-27,Central,Furniture,3824.9,James Rivera,246.28
+ORD00426,2024-09-08,West,Office Supplies,4233.52,Kenneth Hunt,793.29
+ORD00427,2024-02-26,East,Technology,4648.97,Christina Jackson,745.61
+ORD00428,2023-07-09,Central,Furniture,943.06,Shawn Lewis,256.44
+ORD00429,2023-06-23,Central,Office Supplies,1787.57,Jennifer Rivera,246.2
+ORD00430,2023-09-15,West,Furniture,2853.29,Shelia Brown,226.17
+ORD00431,2024-02-23,South,Furniture,752.28,Katherine Gonzales,64.51
+ORD00432,2024-10-24,East,Furniture,3743.25,Craig Williams,899.79
+ORD00433,2023-11-24,West,Office Supplies,2128.17,Sue Freeman,435.33
+ORD00434,2024-01-12,Central,Furniture,1881.76,Kendra Swanson,141.66
+ORD00435,2024-01-28,Central,Technology,3001.31,Robert Gonzales,213.17
+ORD00436,2023-05-16,East,Furniture,829.18,Sandra Johnson,186.77
+ORD00437,2024-08-09,East,Technology,453.83,Alexis White,30.95
+ORD00438,2024-05-02,South,Technology,2148.87,Bradley Patterson,548.96
+ORD00439,2024-08-13,South,Office Supplies,1402.18,Matthew Hernandez,317.68
+ORD00440,2023-11-01,East,Office Supplies,2178.07,David Warner,153.2
+ORD00441,2024-03-19,Central,Technology,3408.51,Aaron Foster,242.72
+ORD00442,2024-11-29,South,Technology,3352.31,Vanessa Lopez,994.5
+ORD00443,2024-03-17,East,Furniture,2006.55,Anne Weber,288.08
+ORD00444,2025-02-04,East,Furniture,1061.89,Christopher Dixon,151.49
+ORD00445,2023-08-07,West,Furniture,3832.6,Joseph Cook,970.41
+ORD00446,2024-11-28,Central,Office Supplies,643.92,Grant Johnson,184.68
+ORD00447,2023-05-17,South,Technology,2181.74,Amanda Clark,646.89
+ORD00448,2023-06-06,West,Office Supplies,2686.28,Veronica Pierce,640.26
+ORD00449,2023-05-02,West,Technology,2815.68,Dana Robertson,405.64
+ORD00450,2025-04-07,Central,Furniture,2015.5,Michael Maynard,142.85
+ORD00451,2023-05-20,East,Office Supplies,142.77,Anthony Smith,34.88
+ORD00452,2024-03-31,East,Office Supplies,2900.01,Charles Sanders,549.84
+ORD00453,2024-12-22,South,Technology,3218.7,Matthew Morales,502.3
+ORD00454,2024-03-01,Central,Furniture,2054.91,Joseph Perez,568.36
+ORD00455,2024-10-04,Central,Furniture,4016.54,Rachel Brown,312.48
+ORD00456,2023-06-26,South,Technology,4602.86,Victor Salazar,797.01
+ORD00457,2025-02-25,East,Office Supplies,4230.2,Nicole Rodriguez,223.52
+ORD00458,2024-02-16,West,Office Supplies,2964.91,Patrick Brown,495.63
+ORD00459,2023-08-17,East,Office Supplies,4359.1,Steven Johnson,279.31
+ORD00460,2025-03-04,Central,Furniture,1698.69,Edgar Green,135.39
+ORD00461,2024-10-19,West,Furniture,2576.89,Danny Delacruz,204.56
+ORD00462,2023-04-21,East,Technology,2574.26,Crystal King,546.52
+ORD00463,2023-06-16,Central,Office Supplies,3650.53,Charlotte Wright,863.39
+ORD00464,2023-05-12,West,Furniture,558.88,Lisa Johnson,109.45
+ORD00465,2024-10-09,Central,Furniture,908.82,Jessica Hughes,264.05
+ORD00466,2024-02-11,West,Technology,423.0,Jordan Raymond,60.79
+ORD00467,2025-03-15,South,Office Supplies,3784.51,Jon Henderson,459.55
+ORD00468,2025-01-12,South,Technology,4624.56,Aaron Romero,1235.45
+ORD00469,2024-09-08,Central,Technology,1614.89,Herbert Peterson,171.02
+ORD00470,2024-09-28,South,Furniture,2371.16,Alexandra Webb,689.55
+ORD00471,2023-08-28,Central,Office Supplies,2977.53,Heather Kramer,157.92
+ORD00472,2025-02-17,Central,Technology,417.24,Debra Dawson,122.03
+ORD00473,2025-01-09,South,Office Supplies,236.16,Paige Lara MD,14.36
+ORD00474,2024-07-21,Central,Office Supplies,429.82,Samantha Moore,117.25
+ORD00475,2024-11-09,East,Technology,2990.7,Jacob Hernandez,544.08
+ORD00476,2023-10-16,South,Office Supplies,2922.63,Luis Poole,871.65
+ORD00477,2023-06-04,East,Office Supplies,4549.8,Gabriel Benson,311.43
+ORD00478,2025-01-25,West,Office Supplies,3044.78,Gerald Madden,573.83
+ORD00479,2025-04-13,West,Furniture,2280.09,Mary Moran,666.53
+ORD00480,2023-12-29,Central,Technology,467.43,Manuel Leblanc,84.5
+ORD00481,2024-02-22,West,Furniture,1276.33,Richard Bentley,264.65
+ORD00482,2023-05-15,South,Office Supplies,2644.14,Gary Juarez,592.12
+ORD00483,2024-05-02,West,Office Supplies,1895.62,Emma Palmer,310.19
+ORD00484,2024-07-23,Central,Office Supplies,2073.41,Charles Delgado MD,428.97
+ORD00485,2025-04-02,Central,Technology,3009.54,Felicia Morris,590.11
+ORD00486,2024-06-26,Central,Furniture,1681.97,Natasha Riggs,463.03
+ORD00487,2025-02-01,South,Office Supplies,1297.38,James Cook,79.61
+ORD00488,2024-10-21,West,Office Supplies,453.43,Sarah Cain,54.52
+ORD00489,2025-01-11,West,Office Supplies,1585.65,Ashley Cantu,456.04
+ORD00490,2025-02-03,South,Furniture,2995.45,Aaron Bridges,816.46
+ORD00491,2023-08-02,East,Office Supplies,2816.66,Douglas Elliott,461.69
+ORD00492,2024-09-22,Central,Furniture,3367.08,Tiffany Smith,690.36
+ORD00493,2024-08-03,East,Technology,3368.76,Harold Hernandez,402.05
+ORD00494,2024-01-25,Central,Furniture,1844.86,Nancy Martinez,179.01
+ORD00495,2023-05-30,West,Furniture,1741.58,Christopher Barber,288.97
+ORD00496,2023-08-31,South,Furniture,1171.39,Taylor Li,162.05
+ORD00497,2023-04-26,West,Furniture,431.97,Debra Dunn,84.63
+ORD00498,2025-02-18,East,Technology,3865.83,Timothy Anderson,268.42
+ORD00499,2023-09-17,East,Technology,1716.98,Janice Anthony,504.1
+ORD00500,2023-11-12,West,Technology,1914.76,Adam Stein,567.83
+ORD00501,2023-10-02,West,Furniture,4165.16,Anna Ellison,935.25
+ORD00502,2024-08-10,West,Technology,2216.48,Brian Miller,407.89
+ORD00503,2023-11-22,South,Office Supplies,3398.0,Laura Carpenter,432.84
+ORD00504,2025-03-19,West,Office Supplies,3072.45,Anita Edwards,778.71
+ORD00505,2023-07-07,South,Furniture,2693.36,Christian Rodriguez,595.72
+ORD00506,2024-10-22,Central,Office Supplies,4524.67,Lonnie Riley,410.18
+ORD00507,2023-11-28,West,Office Supplies,3407.62,Amy Mcdaniel,946.4
+ORD00508,2025-01-26,South,Office Supplies,3858.72,Destiny Fox,986.42
+ORD00509,2023-09-20,South,Technology,2660.93,Jasmine Guerrero,764.88
+ORD00510,2024-06-04,West,Furniture,4016.23,Michael Moore,929.48
+ORD00511,2024-09-15,West,Office Supplies,308.29,Eric Sullivan,62.69
+ORD00512,2023-05-16,South,Office Supplies,2794.98,Laura Anderson MD,431.99
+ORD00513,2024-08-29,East,Technology,4237.17,Dr. Nicholas Park,1199.89
+ORD00514,2024-11-10,East,Office Supplies,465.18,Katherine Allison,123.98
+ORD00515,2023-09-04,West,Office Supplies,2274.13,Rebecca Hill,139.41
+ORD00516,2024-09-22,West,Office Supplies,503.98,Paige Taylor,28.52
+ORD00517,2023-08-14,West,Office Supplies,4428.92,Monica Browning,638.28
+ORD00518,2025-04-04,East,Office Supplies,313.62,Rachel Taylor,79.23
+ORD00519,2023-10-22,Central,Furniture,1961.52,Andrew Flores,582.22
+ORD00520,2025-03-30,East,Office Supplies,1161.47,Jennifer Peters,101.75
+ORD00521,2025-02-14,Central,Furniture,4203.92,Wesley Perez,834.62
+ORD00522,2024-07-11,Central,Furniture,731.12,Wanda Lambert,106.18
+ORD00523,2024-04-06,Central,Office Supplies,3495.56,Brent Pollard,1022.38
+ORD00524,2023-10-01,West,Technology,2372.1,Mr. Dustin Short,618.0
+ORD00525,2024-06-18,East,Furniture,144.07,Emily Manning,37.4
+ORD00526,2024-12-12,West,Furniture,2766.58,Mr. Richard Juarez,462.5
+ORD00527,2023-11-17,South,Furniture,3892.05,Kimberly Murphy,598.23
+ORD00528,2024-03-23,West,Office Supplies,653.15,Jason Byrd,77.3
+ORD00529,2024-10-05,West,Office Supplies,3212.81,John Cohen,205.92
+ORD00530,2023-11-30,South,Furniture,598.75,Michelle Holmes,159.38
+ORD00531,2024-07-31,South,Technology,2703.47,Kenneth Anderson,684.59
+ORD00532,2024-03-09,West,Technology,760.71,Shawn Choi,228.16
+ORD00533,2024-11-23,South,Furniture,3093.31,Judy Fowler,925.39
+ORD00534,2024-03-07,West,Technology,2112.01,Steven Owen,398.87
+ORD00535,2024-04-04,East,Technology,4874.54,Colleen Peterson,1180.84
+ORD00536,2023-07-07,East,Technology,2743.21,Phillip Richardson,785.08
+ORD00537,2024-10-28,East,Office Supplies,4372.99,Danny Williams,1147.52
+ORD00538,2025-03-04,East,Technology,1965.06,Kimberly Nunez,219.77
+ORD00539,2023-11-30,Central,Office Supplies,3749.22,Michele Kirk,609.76
+ORD00540,2024-11-25,Central,Furniture,1756.77,Cathy Powell,144.56
+ORD00541,2023-06-04,East,Technology,3689.18,Donna Hickman,1064.38
+ORD00542,2024-02-07,Central,Furniture,269.46,Susan Wolf,54.31
+ORD00543,2023-11-24,Central,Technology,916.69,Howard Young,98.23
+ORD00544,2023-10-11,South,Technology,2418.73,Kevin Booth,527.1
+ORD00545,2023-07-12,West,Furniture,362.35,Brian Boyd,74.11
+ORD00546,2025-01-29,South,Furniture,1502.54,Sandra Woods,209.67
+ORD00547,2024-03-16,East,Furniture,4434.66,Mia Barrett,347.63
+ORD00548,2024-12-17,Central,Office Supplies,2601.15,Patricia Rowland,566.77
+ORD00549,2024-01-30,South,Office Supplies,231.27,Antonio Jimenez,41.65
+ORD00550,2025-04-10,West,Office Supplies,1817.02,Robert Gray,441.68
+ORD00551,2023-12-11,East,Technology,1693.03,Glenn Brown,304.81
+ORD00552,2024-03-04,East,Office Supplies,2212.91,Todd Johnson,582.1
+ORD00553,2025-02-19,South,Technology,2226.7,Gregory Wright,418.57
+ORD00554,2024-04-29,South,Office Supplies,4869.93,Robert Johnson,926.43
+ORD00555,2024-06-08,South,Technology,2512.74,Vanessa Curry,676.34
+ORD00556,2024-05-19,Central,Furniture,3649.05,Elizabeth Mckenzie,550.53
+ORD00557,2024-05-27,East,Office Supplies,3032.14,Joanne Reynolds,253.2
+ORD00558,2023-10-05,West,Technology,1504.14,Kerri Jordan,86.03
+ORD00559,2023-10-17,East,Furniture,1673.2,Mary Smith,399.53
+ORD00560,2023-10-18,Central,Office Supplies,2257.28,Joshua Rodriguez,462.92
+ORD00561,2024-11-09,South,Furniture,3464.34,Amanda Sutton,783.01
+ORD00562,2024-04-07,Central,Office Supplies,259.66,Steven Mueller,26.81
+ORD00563,2023-12-02,Central,Technology,4990.85,Michael Cohen,419.69
+ORD00564,2023-12-28,Central,Technology,4901.14,Carl Bush,262.88
+ORD00565,2025-01-03,East,Furniture,3372.36,Joshua Rose,464.19
+ORD00566,2024-12-01,South,Office Supplies,2589.78,Abigail White,511.43
+ORD00567,2024-12-08,West,Furniture,756.76,Todd Lin,112.05
+ORD00568,2024-05-05,South,Furniture,674.84,Michael Lee,107.55
+ORD00569,2023-11-24,West,Technology,1863.33,Brett Shaw,514.35
+ORD00570,2023-04-24,South,Technology,210.31,John Baldwin,28.83
+ORD00571,2023-09-09,West,Technology,2277.12,Devon Edwards,406.46
+ORD00572,2025-01-25,Central,Office Supplies,2247.5,Scott Williams,552.69
+ORD00573,2024-05-06,East,Technology,731.59,Carla Garcia,109.11
+ORD00574,2024-04-13,Central,Office Supplies,1606.21,Steven Patel,330.11
+ORD00575,2023-08-26,Central,Furniture,4804.57,Karen Mendez,1276.05
+ORD00576,2024-03-02,East,Technology,970.94,Leslie Lawrence,279.03
+ORD00577,2024-11-05,South,Technology,632.92,Joshua Crosby,54.92
+ORD00578,2024-01-22,Central,Technology,2259.05,Jeremy Norton,636.25
+ORD00579,2024-02-20,Central,Technology,4586.57,Rachel Romero,793.61
+ORD00580,2024-06-10,South,Furniture,657.06,George Dunn,75.27
+ORD00581,2025-03-03,East,Office Supplies,904.65,Micheal Jones,149.07
+ORD00582,2023-06-30,South,Furniture,4062.04,David Garcia,1198.33
+ORD00583,2023-11-21,Central,Technology,1769.76,Beth Whitney,306.44
+ORD00584,2024-08-26,East,Technology,2733.75,Sharon Singh,361.37
+ORD00585,2025-02-21,Central,Furniture,3573.46,Amanda Soto,744.53
+ORD00586,2024-07-22,West,Office Supplies,2568.34,Amanda Turner,282.61
+ORD00587,2023-11-10,East,Furniture,3970.73,Andrea Garcia,273.84
+ORD00588,2024-03-23,West,Office Supplies,180.11,Diane Robinson,14.81
+ORD00589,2023-10-25,Central,Office Supplies,4028.13,Wayne Smith,330.35
+ORD00590,2024-07-25,West,Technology,4427.02,Heather Duncan,389.47
+ORD00591,2024-08-29,East,Office Supplies,2020.89,Joanna Ellis,171.18
+ORD00592,2025-02-21,South,Technology,2083.44,Leah Wilson,437.98
+ORD00593,2024-12-24,South,Technology,415.07,Cory May,39.63
+ORD00594,2024-09-22,Central,Technology,417.12,Michael Simmons,56.9
+ORD00595,2024-04-12,South,Technology,2610.93,Miss Kendra Good MD,715.91
+ORD00596,2024-12-29,West,Technology,3216.98,Allison Tran,542.03
+ORD00597,2024-06-24,West,Furniture,2191.46,Mariah Hess,475.3
+ORD00598,2024-11-22,East,Furniture,2614.61,Megan Sanchez PhD,243.37
+ORD00599,2024-02-02,Central,Furniture,851.74,Brian Martinez,83.53
+ORD00600,2023-11-14,West,Office Supplies,4740.04,Adrian Campbell,285.43
+ORD00601,2023-04-30,Central,Furniture,1290.5,Christopher Goodman,119.03
+ORD00602,2024-06-27,Central,Furniture,3143.86,Emily Colon,376.16
+ORD00603,2025-01-26,East,Technology,3222.89,Justin Fernandez,303.77
+ORD00604,2024-08-16,West,Furniture,3310.73,Mrs. Angela Fernandez,238.95
+ORD00605,2024-11-15,Central,Technology,253.91,Alicia Graham,20.35
+ORD00606,2025-02-16,East,Furniture,275.04,Valerie Turner,45.44
+ORD00607,2024-02-09,Central,Technology,1093.5,Cody Macias,111.08
+ORD00608,2025-04-02,South,Technology,3213.01,Trevor Warren,453.25
+ORD00609,2023-11-24,South,Technology,2750.61,Luke Clayton,483.71
+ORD00610,2023-07-20,Central,Office Supplies,1262.15,Lisa Williams,280.95
+ORD00611,2024-09-16,South,Office Supplies,2295.04,Jennifer Ramos,137.31
+ORD00612,2024-10-02,East,Furniture,2226.05,Catherine Daniel,556.18
+ORD00613,2023-05-28,South,Office Supplies,1059.91,Jeffrey Knight,219.37
+ORD00614,2023-06-17,West,Office Supplies,4314.35,Bradley Faulkner,303.9
+ORD00615,2024-02-16,Central,Technology,4940.72,Robert Shelton,1326.06
+ORD00616,2025-03-02,Central,Office Supplies,697.29,Mr. Russell Liu,195.39
+ORD00617,2024-04-16,Central,Technology,2830.17,Jason Hamilton,184.72
+ORD00618,2025-03-01,Central,Furniture,2359.04,Kristen Beck,281.24
+ORD00619,2024-03-02,Central,Office Supplies,1277.2,Lisa Martinez,321.28
+ORD00620,2024-02-16,East,Furniture,1486.55,Robert Sanchez,352.41
+ORD00621,2023-07-15,South,Technology,2119.77,Gary Brown,203.77
+ORD00622,2023-08-23,West,Office Supplies,4672.07,Madison Hubbard,478.13
+ORD00623,2024-09-12,Central,Furniture,3827.45,Sherry Hill,545.86
+ORD00624,2025-02-01,South,Technology,2360.73,Andrea Washington,403.99
+ORD00625,2023-06-01,Central,Office Supplies,164.72,Kendra Jones,33.7
+ORD00626,2024-06-02,South,Technology,2313.29,John Cooper,329.02
+ORD00627,2025-02-15,West,Furniture,2937.55,Michelle Wall,486.56
+ORD00628,2024-06-08,East,Furniture,1442.71,Patricia Harrison,341.73
+ORD00629,2025-03-05,South,Office Supplies,2706.62,Andrew Young,160.15
+ORD00630,2024-06-05,East,Office Supplies,712.98,Travis Phillips,80.64
+ORD00631,2024-01-25,Central,Technology,1860.6,Jennifer Knight,424.84
+ORD00632,2023-06-25,South,Office Supplies,273.95,Jeremiah Berry,75.01
+ORD00633,2024-01-12,East,Technology,2830.99,Justin Smith,503.69
+ORD00634,2024-09-08,Central,Technology,1478.58,Jacob Gray,270.62
+ORD00635,2024-07-23,South,Technology,2279.25,Larry Colon,175.03
+ORD00636,2025-01-23,Central,Technology,3417.97,Monica Peters,553.21
+ORD00637,2024-10-10,East,Furniture,4876.66,Connor Middleton,893.18
+ORD00638,2024-12-20,South,Office Supplies,3984.74,Laurie Cruz,440.78
+ORD00639,2024-09-20,Central,Technology,4697.8,John Howe,551.1
+ORD00640,2025-01-03,West,Furniture,3032.19,Connie Greene,437.61
+ORD00641,2024-09-23,South,Technology,249.26,David Stanton,13.71
+ORD00642,2024-12-11,East,Furniture,3582.28,Christopher Ware,467.56
+ORD00643,2024-06-07,South,Technology,2312.09,Justin Johnson,237.83
+ORD00644,2023-10-15,West,Office Supplies,4660.28,Ashley Montgomery,614.57
+ORD00645,2024-11-03,Central,Furniture,1995.13,Timothy Martin,159.49
+ORD00646,2023-05-16,Central,Technology,1715.05,Karen Jordan DDS,467.58
+ORD00647,2023-05-12,South,Technology,2836.48,Brian Roberts,562.75
+ORD00648,2024-01-22,South,Furniture,1873.37,Glenn Williams MD,411.72
+ORD00649,2024-09-02,East,Office Supplies,2939.33,Daniel Wiley,726.88
+ORD00650,2024-07-31,East,Technology,2399.22,Craig Welch,418.93
+ORD00651,2023-09-01,West,Technology,304.21,Bryan Jones,21.82
+ORD00652,2023-11-05,South,Furniture,2644.95,Craig Lewis,487.4
+ORD00653,2024-11-15,South,Furniture,4117.22,Toni Vazquez,809.9
+ORD00654,2024-07-09,West,Furniture,2884.22,Timothy Avery,681.71
+ORD00655,2023-08-04,East,Furniture,143.74,Mr. Charles Delacruz,22.7
+ORD00656,2023-11-05,Central,Office Supplies,799.58,Donald Black,65.48
+ORD00657,2025-02-28,West,Office Supplies,2534.01,Mark Thompson,306.47
+ORD00658,2025-01-02,South,Technology,3650.64,Victoria Roth,513.9
+ORD00659,2024-07-11,West,Technology,1076.34,Emily Lambert,227.62
+ORD00660,2024-12-01,Central,Technology,2417.94,Brandon Murphy,465.92
+ORD00661,2024-09-17,South,Office Supplies,4785.59,Jessica Smith,665.31
+ORD00662,2025-01-10,South,Technology,1744.52,Deanna Johnson,517.47
+ORD00663,2024-11-25,Central,Technology,3871.35,Thomas Nguyen,779.86
+ORD00664,2025-03-08,Central,Technology,2446.69,Cheryl Rose,267.44
+ORD00665,2024-05-31,West,Office Supplies,2812.53,Colleen Franklin,212.19
+ORD00666,2023-11-01,West,Office Supplies,3867.31,Brian Mathews,341.15
+ORD00667,2025-01-26,West,Technology,3539.69,Thomas Moore,394.64
+ORD00668,2024-05-22,Central,Office Supplies,1776.58,Tara Perez,160.19
+ORD00669,2023-12-31,Central,Office Supplies,653.28,Laura Krueger,63.13
+ORD00670,2024-04-14,South,Office Supplies,4100.97,Kenneth Gordon,497.34
+ORD00671,2023-08-07,West,Office Supplies,258.23,Michael Barrett,24.1
+ORD00672,2023-11-22,East,Office Supplies,4623.85,Kevin Perez,1267.82
+ORD00673,2023-07-28,Central,Technology,2421.44,Jerry Adams,169.64
+ORD00674,2023-07-20,West,Technology,1392.11,Colleen Lewis,252.15
+ORD00675,2024-10-26,Central,Furniture,590.67,Robert Payne,90.14
+ORD00676,2024-07-24,West,Furniture,301.29,Mark Pace,89.06
+ORD00677,2023-12-03,West,Technology,1202.54,Jose Boyd,93.81
+ORD00678,2023-10-30,East,Office Supplies,1684.95,Theresa Cook,251.84
+ORD00679,2024-01-06,South,Furniture,3421.9,Jeremy Peters,1000.45
+ORD00680,2025-02-10,West,Furniture,4824.37,Elizabeth Ramos,1285.1
+ORD00681,2024-12-27,West,Office Supplies,3281.82,Adam Newton,834.46
+ORD00682,2024-05-22,South,Office Supplies,3270.17,Jenny Contreras,374.36
+ORD00683,2023-12-21,Central,Office Supplies,1462.81,Julia Rodriguez,135.63
+ORD00684,2023-10-05,East,Furniture,3278.88,Terry Smith,712.04
+ORD00685,2024-08-30,West,Technology,3706.5,Ian Cohen,1046.51
+ORD00686,2025-01-13,East,Furniture,2118.53,Allen Perez,400.81
+ORD00687,2024-12-15,West,Furniture,4986.0,Patricia Walker,961.82
+ORD00688,2023-11-19,South,Office Supplies,972.24,Maria Williams MD,116.66
+ORD00689,2023-10-14,Central,Furniture,95.87,Casey Ortiz,23.24
+ORD00690,2024-10-18,East,Office Supplies,1458.58,Jose Carrillo,141.13
+ORD00691,2024-06-28,South,Furniture,4262.75,Courtney Ramos,558.08
+ORD00692,2023-06-17,South,Office Supplies,1004.42,Michael Villa,157.05
+ORD00693,2024-05-09,East,Office Supplies,854.35,Michelle Case,151.14
+ORD00694,2024-06-01,South,Technology,1323.46,Anthony Long MD,146.38
+ORD00695,2024-11-07,West,Furniture,3696.26,Mary Wood,290.93
+ORD00696,2023-09-02,Central,Technology,3388.29,David Friedman,686.65
+ORD00697,2023-07-01,West,Furniture,3074.22,James Baker,375.54
+ORD00698,2023-06-01,South,Office Supplies,2600.64,Rodney Harris,507.93
+ORD00699,2024-09-07,East,Office Supplies,3362.82,Craig Frank,297.91
+ORD00700,2023-11-26,West,Furniture,2413.4,Cassie Cannon,410.97
+ORD00701,2024-01-04,West,Furniture,1340.89,Monica Rodriguez,245.58
+ORD00702,2023-10-03,West,Office Supplies,3781.1,Kristen Blair,238.04
+ORD00703,2023-09-03,Central,Office Supplies,2933.18,Taylor Walls,393.49
+ORD00704,2025-03-12,East,Office Supplies,3285.73,Carl Davis,274.7
+ORD00705,2024-05-18,West,Furniture,3355.54,Laura Morrow,220.94
+ORD00706,2023-06-20,South,Office Supplies,840.6,Joshua Beltran,250.07
+ORD00707,2023-09-21,Central,Technology,631.21,John Dixon,82.43
+ORD00708,2023-07-17,Central,Office Supplies,3092.4,Gilbert Long,780.73
+ORD00709,2023-11-09,West,Furniture,2417.0,Tiffany Rodriguez,274.72
+ORD00710,2023-06-06,South,Technology,4944.75,Nancy Martinez,1089.7
+ORD00711,2023-10-09,Central,Office Supplies,3524.61,Brian Price,846.11
+ORD00712,2024-08-12,South,Technology,4019.88,Caroline Sanders,799.59
+ORD00713,2024-12-29,West,Furniture,3417.69,Rebecca Yates,573.81
+ORD00714,2023-08-24,East,Technology,2261.4,John Sanchez,345.9
+ORD00715,2024-06-18,Central,Furniture,4590.36,Kristen Nguyen,629.88
+ORD00716,2024-05-10,East,Furniture,4152.43,Kimberly Morris,1172.57
+ORD00717,2025-02-20,West,Technology,2706.47,Billy Morrison,697.34
+ORD00718,2025-03-02,West,Office Supplies,4279.71,Melissa Huynh,1246.49
+ORD00719,2024-06-24,South,Furniture,3417.46,Jessica Harrell,277.07
+ORD00720,2024-11-08,South,Furniture,4499.5,Megan Davis,1047.11
+ORD00721,2024-07-31,South,Furniture,2294.49,Greg Gibson,652.98
+ORD00722,2024-09-09,South,Office Supplies,2841.36,Thomas Brown,270.81
+ORD00723,2024-09-19,South,Technology,4044.23,Rebecca Best,269.44
+ORD00724,2024-04-06,East,Office Supplies,1309.56,Walter Shaw,308.11
+ORD00725,2024-09-14,East,Technology,1128.61,Renee Garza,218.52
+ORD00726,2024-05-11,East,Furniture,2147.3,Amanda Johnson,559.28
+ORD00727,2023-05-14,East,Technology,4970.91,Carrie Lambert,422.24
+ORD00728,2023-10-08,East,Office Supplies,207.09,Carrie Schultz,51.53
+ORD00729,2024-03-02,South,Furniture,3856.41,Billy Bennett,387.21
+ORD00730,2025-03-07,South,Office Supplies,4964.64,Jessica Zimmerman,451.36
+ORD00731,2024-06-04,South,Office Supplies,4354.62,Tracey Thomas,396.56
+ORD00732,2024-11-23,South,Office Supplies,447.24,William Lang,113.44
+ORD00733,2024-10-17,West,Technology,4308.42,Miranda Johnson,931.91
+ORD00734,2024-04-04,East,Furniture,4964.59,Jacob Mullins,897.43
+ORD00735,2024-06-05,South,Technology,680.37,Samantha Scott,95.05
+ORD00736,2024-02-13,West,Furniture,3793.09,Sandra Harding,1021.48
+ORD00737,2024-10-17,Central,Office Supplies,3383.82,Tracy Walters,501.18
+ORD00738,2024-10-16,South,Technology,1927.42,Shaun Jackson,489.85
+ORD00739,2024-04-17,West,Furniture,2330.1,Danielle Martinez,372.31
+ORD00740,2024-02-23,West,Office Supplies,982.98,Crystal Cook,141.78
+ORD00741,2023-11-03,East,Furniture,4056.92,David Waters,672.11
+ORD00742,2025-03-12,South,Technology,3841.96,Alan Perez,481.57
+ORD00743,2023-12-05,East,Furniture,1070.1,Carla Miller,253.51
+ORD00744,2024-12-04,East,Technology,216.2,Joanna Morris,37.98
+ORD00745,2024-07-29,East,Furniture,3715.68,Nicole Valenzuela,401.49
+ORD00746,2024-07-02,South,Office Supplies,1209.98,Christopher Gonzalez,332.62
+ORD00747,2025-02-16,West,Furniture,743.67,Allison Vaughn,108.56
+ORD00748,2024-01-31,Central,Furniture,4088.14,Daniel Vaughn,759.94
+ORD00749,2023-08-09,Central,Technology,3009.69,Angel Jones,832.53
+ORD00750,2023-06-23,Central,Furniture,1543.73,Jesse Torres,318.1
+ORD00751,2024-05-05,West,Technology,2630.19,Brittany West,208.38
+ORD00752,2024-03-04,South,Office Supplies,1412.01,Ashley Simpson,402.36
+ORD00753,2024-10-04,West,Technology,3409.81,Valerie Scott,705.58
+ORD00754,2024-12-10,South,Furniture,4862.84,Lee Mcgee,650.29
+ORD00755,2024-10-10,South,Technology,1627.74,Gregory Woods,138.06
+ORD00756,2024-09-10,South,Office Supplies,788.63,Dustin Ward,195.98
+ORD00757,2024-07-05,South,Furniture,3784.36,Michael Hodges,775.86
+ORD00758,2023-08-11,South,Furniture,4254.24,Kristin Stephenson,780.08
+ORD00759,2024-05-08,Central,Technology,764.54,Patricia Gilbert,209.08
+ORD00760,2024-04-27,South,Furniture,2833.81,Shannon Chandler,700.37
+ORD00761,2024-12-24,South,Technology,2673.46,Julie Wright,235.05
+ORD00762,2024-05-28,South,Furniture,1312.23,Kyle Wilson,167.87
+ORD00763,2024-12-04,Central,Technology,441.4,Charles Yates,49.49
+ORD00764,2024-07-19,South,Office Supplies,507.7,Pedro Montgomery,119.81
+ORD00765,2024-10-06,West,Furniture,1378.88,Patricia Garcia,80.5
+ORD00766,2023-05-07,East,Furniture,981.41,Clayton Rodriguez,188.89
+ORD00767,2024-02-26,West,Office Supplies,1084.0,Bradley Burke,260.83
+ORD00768,2025-01-03,Central,Office Supplies,4787.25,Brittany Thompson,1288.69
+ORD00769,2024-05-02,East,Furniture,4688.94,Christopher Mueller,635.45
+ORD00770,2023-04-22,East,Technology,4997.88,Gina King,1276.03
+ORD00771,2023-07-20,South,Furniture,3493.35,Cheryl Rodriguez,271.29
+ORD00772,2024-05-09,West,Office Supplies,4579.88,Jessica Anderson,1198.16
+ORD00773,2024-05-14,Central,Office Supplies,1934.28,Eric Taylor,158.36
+ORD00774,2023-11-03,Central,Office Supplies,1344.73,Michael Boyd,200.8
+ORD00775,2023-08-01,South,Office Supplies,538.11,Rebecca Allison,134.16
+ORD00776,2024-08-15,South,Office Supplies,4575.94,Sharon Price,400.3
+ORD00777,2023-10-07,Central,Office Supplies,2098.95,Rachel Rodriguez,225.24
+ORD00778,2024-02-28,West,Technology,772.32,Joseph Rivera DDS,178.07
+ORD00779,2023-10-13,Central,Technology,4677.05,Helen Prince,1075.76
+ORD00780,2024-08-16,South,Office Supplies,804.44,Chad Ruiz,169.16
+ORD00781,2023-11-06,Central,Furniture,1930.21,Patricia Price,431.38
+ORD00782,2024-05-28,West,Office Supplies,2775.68,Alexis Nelson,515.39
+ORD00783,2023-06-26,Central,Office Supplies,3828.64,Marie Wade,432.44
+ORD00784,2024-03-06,South,Technology,3226.39,Andrew Rogers,440.16
+ORD00785,2025-01-10,South,Office Supplies,882.76,Jasmine Williams,84.21
+ORD00786,2024-02-11,Central,Furniture,742.79,Mary Pratt,205.84
+ORD00787,2025-02-01,South,Furniture,4588.65,Lindsey Barnes,898.68
+ORD00788,2024-11-28,East,Technology,217.43,Matthew Griffith,32.66
+ORD00789,2023-12-31,East,Technology,290.15,Carl Flynn,48.02
+ORD00790,2024-12-24,East,Office Supplies,730.58,Shawn Sampson,209.55
+ORD00791,2024-12-27,West,Furniture,3550.49,Ryan Cantu,313.64
+ORD00792,2024-08-30,East,Furniture,2553.38,Christy Davila,501.89
+ORD00793,2024-06-10,Central,Furniture,3108.28,Nathan Russo,548.52
+ORD00794,2023-06-18,South,Technology,2464.88,Miss Jennifer Walker MD,500.03
+ORD00795,2023-09-14,East,Technology,2780.64,Alexa Ward,151.62
+ORD00796,2024-02-25,East,Furniture,2670.62,Katelyn Frost,715.81
+ORD00797,2023-09-03,Central,Technology,4888.52,Chelsea Bailey,1383.6
+ORD00798,2024-07-13,East,Technology,4075.13,Amanda Lawrence,779.5
+ORD00799,2024-05-29,South,Furniture,579.73,Angela Hernandez,129.95
+ORD00800,2023-12-16,East,Technology,787.04,Nina Dalton,220.86
+ORD00801,2024-12-10,West,Technology,2655.96,Paul Austin,602.4
+ORD00802,2025-04-06,Central,Office Supplies,3984.93,Kristina Shaw,351.21
+ORD00803,2025-01-17,East,Office Supplies,4798.52,Jill Clay,931.26
+ORD00804,2024-12-19,South,Technology,1253.88,Daniel Rasmussen,252.88
+ORD00805,2023-11-07,West,Office Supplies,3436.01,Michael Wright,536.13
+ORD00806,2024-07-07,East,Technology,4958.79,Crystal Rivera,1160.91
+ORD00807,2024-07-13,East,Furniture,2056.13,Shawn Ramirez,583.1
+ORD00808,2025-03-12,South,Technology,2406.23,Tara Boyd,677.09
+ORD00809,2024-01-01,East,Technology,898.35,Anthony Wright,146.17
+ORD00810,2023-05-28,South,Office Supplies,3242.29,Chad Keller,253.9
+ORD00811,2024-01-10,Central,Technology,4887.78,Todd White,1447.81
+ORD00812,2023-07-05,East,Technology,4599.8,Shawn Moon,1194.68
+ORD00813,2023-06-03,West,Furniture,4511.3,William Smith,366.16
+ORD00814,2023-05-16,South,Office Supplies,280.48,Emily Barr,78.59
+ORD00815,2024-12-09,East,Technology,4631.64,Mark Ware,1238.84
+ORD00816,2025-04-10,East,Furniture,4647.39,Jesse Watson,835.18
+ORD00817,2025-01-26,Central,Furniture,4809.27,James Williams,951.36
+ORD00818,2023-12-14,West,Technology,4113.47,Shane Richardson,615.99
+ORD00819,2025-02-10,East,Office Supplies,854.13,Brian Coleman,54.4
+ORD00820,2024-03-07,West,Technology,4181.52,Erin Gentry,559.48
+ORD00821,2023-07-18,South,Technology,4487.8,Melissa Davis,1125.15
+ORD00822,2024-02-08,Central,Office Supplies,3790.27,John Hays,193.9
+ORD00823,2024-10-12,West,Technology,3634.61,Dana Vargas,484.77
+ORD00824,2023-11-30,Central,Furniture,533.54,Adrienne Gray,79.79
+ORD00825,2024-09-09,West,Furniture,1735.93,Gregory Juarez,320.02
+ORD00826,2023-07-31,South,Office Supplies,196.65,Marisa Bowman,55.05
+ORD00827,2023-08-18,Central,Office Supplies,2478.49,Elizabeth Morris,338.53
+ORD00828,2024-03-22,Central,Technology,4708.66,Nicole Rivera,643.85
+ORD00829,2023-05-12,South,Furniture,3414.49,Kristina Clements,800.27
+ORD00830,2025-02-06,South,Furniture,3872.23,Kristin Turner MD,631.38
+ORD00831,2024-11-23,Central,Furniture,3579.89,Betty Hunter,380.01
+ORD00832,2025-04-04,East,Office Supplies,813.39,Pamela Evans,132.67
+ORD00833,2023-08-19,West,Technology,1978.63,Justin Armstrong,168.61
+ORD00834,2024-03-27,Central,Furniture,503.03,Jose Anderson,47.33
+ORD00835,2024-09-16,Central,Office Supplies,1831.59,Nancy Hunt,319.78
+ORD00836,2025-02-05,Central,Furniture,705.91,Joshua Middleton,109.23
+ORD00837,2023-08-27,West,Office Supplies,2271.78,Shirley Browning,633.17
+ORD00838,2023-08-05,South,Furniture,180.0,Sylvia Simpson,25.31
+ORD00839,2025-03-11,Central,Technology,510.67,Thomas Hughes,99.66
+ORD00840,2023-08-11,Central,Office Supplies,111.09,Mark Lee,23.11
+ORD00841,2024-05-29,South,Office Supplies,3906.89,Tina Cox,208.13
+ORD00842,2025-01-05,West,Technology,2629.47,Cameron Hogan,567.66
+ORD00843,2024-05-08,South,Furniture,737.26,Kimberly Chavez,69.68
+ORD00844,2025-02-17,Central,Office Supplies,2490.96,Frank Smith,723.04
+ORD00845,2024-04-10,East,Furniture,2201.65,April Sandoval,191.91
+ORD00846,2024-07-18,South,Office Supplies,2446.95,Evan Mcmahon,375.99
+ORD00847,2025-03-16,East,Office Supplies,1295.91,Sean Olson,92.45
+ORD00848,2024-02-01,West,Technology,3143.92,Alexandra Kirk,940.72
+ORD00849,2023-10-13,West,Office Supplies,579.51,Melanie Mckinney,101.73
+ORD00850,2024-06-02,Central,Furniture,4746.68,Brianna Cooley,943.86
+ORD00851,2024-08-12,Central,Technology,1930.46,Mrs. Rebecca Douglas,128.9
+ORD00852,2024-03-08,Central,Office Supplies,1706.94,Kelly Hodges,405.38
+ORD00853,2023-04-28,West,Office Supplies,1637.29,Steven Stephens,167.78
+ORD00854,2025-03-06,West,Office Supplies,1605.21,Kelsey Jones,440.65
+ORD00855,2023-10-04,South,Office Supplies,1492.67,Austin Brown,151.18
+ORD00856,2023-08-07,South,Technology,3920.77,John Clark,382.95
+ORD00857,2024-05-06,Central,Office Supplies,1437.49,Aaron Morales,85.01
+ORD00858,2023-09-16,South,Office Supplies,613.74,Amy Barnes,103.12
+ORD00859,2024-05-10,West,Technology,4986.46,Joshua Lyons,953.46
+ORD00860,2023-05-12,West,Technology,3849.71,Vincent Wyatt,255.73
+ORD00861,2024-07-17,East,Technology,2335.03,Joshua Quinn,569.47
+ORD00862,2023-09-29,West,Office Supplies,3998.54,Michael Perez,653.05
+ORD00863,2023-08-19,East,Office Supplies,3381.24,Lisa Buchanan,612.33
+ORD00864,2023-05-25,West,Technology,1549.02,Michelle Hodge,248.14
+ORD00865,2025-01-30,Central,Technology,813.01,Dawn Scott,122.11
+ORD00866,2023-05-12,South,Office Supplies,416.13,Corey Buchanan,79.03
+ORD00867,2024-12-30,South,Technology,2033.99,Anna Hamilton,180.64
+ORD00868,2025-02-14,South,Technology,231.99,Derek Chambers,22.15
+ORD00869,2023-09-29,Central,Technology,4482.73,Raymond Rogers,1189.92
+ORD00870,2023-11-08,East,Furniture,3856.32,Bradley Welch,1104.95
+ORD00871,2025-02-22,Central,Furniture,3252.65,Sean Turner,466.19
+ORD00872,2025-03-03,East,Technology,4918.86,Wendy Phillips,578.88
+ORD00873,2023-10-24,South,Office Supplies,4830.3,Scott Flynn,1019.19
+ORD00874,2023-12-20,South,Furniture,102.21,Tina Carpenter,15.55
+ORD00875,2024-05-28,Central,Furniture,2577.85,Jacob Porter,145.25
+ORD00876,2024-04-21,West,Office Supplies,1901.89,Mark Williams,169.34
+ORD00877,2024-03-01,South,Technology,2963.52,John Watts,678.63
+ORD00878,2024-11-12,West,Office Supplies,4988.63,Dawn Adams,1071.21
+ORD00879,2025-04-01,South,Furniture,1512.39,Daniel Perez,85.86
+ORD00880,2023-10-22,East,Furniture,4165.02,William Zavala,439.38
+ORD00881,2024-10-05,West,Office Supplies,1593.86,Allen Gray,171.77
+ORD00882,2025-02-22,South,Furniture,2629.52,Melissa Hammond,573.16
+ORD00883,2024-10-12,Central,Office Supplies,533.23,Michael Peterson,29.29
+ORD00884,2024-09-19,South,Office Supplies,382.51,John Sanchez,29.08
+ORD00885,2023-07-17,East,Technology,619.67,Yvonne Clay,154.9
+ORD00886,2024-09-26,Central,Technology,591.35,Stephanie Carpenter,55.96
+ORD00887,2025-03-02,West,Technology,1257.37,Christopher Woodward,268.05
+ORD00888,2025-01-22,West,Technology,842.67,Michelle Norris,92.31
+ORD00889,2025-02-20,South,Office Supplies,1197.68,Jeffrey Fernandez,89.66
+ORD00890,2023-07-11,South,Technology,963.04,Mary Atkins,106.7
+ORD00891,2024-12-26,South,Office Supplies,194.5,Andrew Robertson,44.85
+ORD00892,2023-11-29,West,Office Supplies,2981.41,Krista Pacheco,786.87
+ORD00893,2023-11-10,South,Furniture,3538.44,Cassandra Smith,911.34
+ORD00894,2024-07-12,West,Office Supplies,3774.01,Michelle Chung,563.44
+ORD00895,2023-08-31,East,Technology,553.67,Brandy Hogan,120.16
+ORD00896,2024-04-17,West,Office Supplies,1663.63,John Massey,168.44
+ORD00897,2024-04-11,South,Furniture,1348.65,Deborah Anthony,166.27
+ORD00898,2024-08-24,South,Technology,4831.29,Timothy Patrick,1324.18
+ORD00899,2024-10-14,Central,Technology,1973.76,Alyssa Walker,105.1
+ORD00900,2024-07-29,South,Technology,615.45,Leah Brown,43.93
+ORD00901,2024-04-10,Central,Office Supplies,3105.95,Christine Owens,316.72
+ORD00902,2024-10-28,Central,Technology,2971.33,Kayla Nelson,168.28
+ORD00903,2025-02-11,West,Office Supplies,633.42,Mary Barnes,60.4
+ORD00904,2023-11-19,Central,Furniture,956.07,John Wilson,187.16
+ORD00905,2024-04-02,West,Technology,1972.89,Chloe Jimenez,306.5
+ORD00906,2025-03-02,West,Technology,1949.36,David Watkins,532.5
+ORD00907,2024-08-27,West,Office Supplies,3195.73,William Nielsen,812.87
+ORD00908,2023-08-03,West,Technology,875.98,Gregory Fox,118.66
+ORD00909,2024-04-09,Central,Furniture,976.14,Jose Marquez,112.12
+ORD00910,2023-10-25,South,Technology,315.38,Jill Santiago,45.71
+ORD00911,2025-01-10,Central,Furniture,2448.81,Kaylee Johnson,483.82
+ORD00912,2024-08-25,West,Office Supplies,4820.95,James Miller,564.13
+ORD00913,2023-12-05,South,Office Supplies,3439.25,Amy Lindsey,708.61
+ORD00914,2023-09-16,South,Technology,4207.46,Eric Morris,641.02
+ORD00915,2024-05-26,South,Furniture,459.22,Jeremy Gray,86.34
+ORD00916,2023-07-25,East,Furniture,1495.85,Peter Hester,237.89
+ORD00917,2023-09-16,Central,Furniture,2711.16,Rebecca Brown,335.14
+ORD00918,2023-04-27,West,Office Supplies,2849.97,Gavin Gonzales,818.26
+ORD00919,2025-04-16,South,Technology,2578.49,Joanne Stout PhD,621.16
+ORD00920,2023-09-21,East,Office Supplies,3886.81,Victoria Ortiz,330.49
+ORD00921,2023-08-03,Central,Technology,4121.92,David Rogers,1101.03
+ORD00922,2025-02-24,East,Technology,2234.76,Amy Kelley,384.06
+ORD00923,2024-10-29,West,Office Supplies,556.96,John West,152.41
+ORD00924,2024-05-24,West,Office Supplies,4380.31,Kristin Young,1094.92
+ORD00925,2024-12-08,East,Office Supplies,1350.94,Cheryl Mcmahon,211.16
+ORD00926,2023-10-30,East,Office Supplies,4333.19,Heather Scott,241.0
+ORD00927,2024-08-02,East,Furniture,1088.9,Clayton Pham,127.59
+ORD00928,2023-11-26,Central,Technology,3070.8,Michael Holland,569.35
+ORD00929,2023-09-22,South,Furniture,3099.95,Robin Romero,645.94
+ORD00930,2023-10-13,West,Furniture,4036.93,Zachary Smith,462.12
+ORD00931,2024-05-16,Central,Technology,1441.37,Steven Turner MD,122.28
+ORD00932,2024-01-28,West,Office Supplies,4896.05,David Leblanc,1266.77
+ORD00933,2023-11-02,Central,Office Supplies,2885.04,Eric Mcmillan,854.26
+ORD00934,2023-06-26,East,Furniture,4815.72,Johnathan Kane,873.68
+ORD00935,2024-02-07,South,Furniture,4962.81,Robert Blanchard,461.14
+ORD00936,2025-03-30,West,Technology,4337.09,Tiffany Peck,512.11
+ORD00937,2024-04-13,West,Furniture,3571.4,Michelle Baker,194.99
+ORD00938,2024-09-24,West,Technology,1993.87,Nancy Tucker,555.44
+ORD00939,2024-11-19,West,Technology,3180.39,Brooke Ramirez,252.64
+ORD00940,2025-03-01,South,Office Supplies,2287.36,Eric Harris,444.04
+ORD00941,2023-10-29,East,Office Supplies,2602.29,Karen Chapman,308.41
+ORD00942,2023-06-10,Central,Technology,4684.86,Aaron Smith,883.3
+ORD00943,2024-04-07,Central,Office Supplies,4753.76,Ray Salinas,1011.86
+ORD00944,2023-10-29,Central,Technology,62.24,Andre Mcintyre,16.02
+ORD00945,2025-03-07,East,Technology,4862.14,Edward Compton,494.02
+ORD00946,2024-10-01,Central,Furniture,3988.61,Sandra Johnson,210.4
+ORD00947,2024-01-02,South,Furniture,4842.24,Brittany Lang,407.82
+ORD00948,2024-12-05,West,Office Supplies,1379.26,Mr. Kenneth Pearson,379.3
+ORD00949,2025-01-15,Central,Office Supplies,2759.19,Carolyn Tran,740.77
+ORD00950,2024-11-27,West,Technology,4269.49,Joshua Graham,851.14
+ORD00951,2024-11-23,Central,Technology,3823.16,Kyle Ramirez,765.13
+ORD00952,2024-04-10,East,Furniture,3149.59,Charles Blanchard,681.13
+ORD00953,2023-08-02,South,Furniture,664.97,Andrew Torres,62.4
+ORD00954,2025-04-12,West,Office Supplies,2309.76,Mark Wright,643.51
+ORD00955,2024-08-29,South,Furniture,4978.69,Michelle Chan,770.17
+ORD00956,2024-10-31,West,Technology,1544.23,Alex Schmidt,225.13
+ORD00957,2024-03-25,Central,Furniture,3290.21,Heidi Byrd,591.35
+ORD00958,2024-02-22,Central,Furniture,1890.63,Daniel Jefferson,116.73
+ORD00959,2023-11-04,West,Furniture,2011.89,Lindsey Gray,184.23
+ORD00960,2024-03-03,Central,Technology,3512.23,Jason Jordan,823.65
+ORD00961,2023-06-17,West,Office Supplies,3294.65,Lauren Lopez,232.93
+ORD00962,2024-11-27,East,Furniture,1106.43,Todd Butler,222.16
+ORD00963,2024-05-23,East,Furniture,2988.71,Nicole Hunt,332.75
+ORD00964,2023-12-13,South,Furniture,89.91,Ashley Hardin,13.25
+ORD00965,2024-10-29,Central,Furniture,4941.37,Amy Pineda,603.7
+ORD00966,2023-08-26,South,Technology,704.27,Matthew Brooks,97.84
+ORD00967,2023-08-14,East,Furniture,1946.2,Leslie Greer,447.16
+ORD00968,2025-01-15,East,Furniture,1601.09,Jennifer Stewart,198.98
+ORD00969,2025-01-14,Central,Furniture,1944.47,Michael Ramos,372.56
+ORD00970,2025-04-01,West,Technology,4965.05,Amy Jones,839.16
+ORD00971,2023-09-22,West,Furniture,2676.02,Dakota Allen,577.8
+ORD00972,2024-05-29,East,Technology,3267.6,Jonathan Simmons,928.68
+ORD00973,2024-02-14,South,Office Supplies,3626.04,Stephen Meyer,845.39
+ORD00974,2023-06-07,West,Office Supplies,3099.58,James Wilson,321.54
+ORD00975,2023-11-18,South,Furniture,479.11,Alexander Ortega,27.69
+ORD00976,2023-10-05,East,Furniture,3774.61,Rachel Hall,436.22
+ORD00977,2023-10-12,South,Office Supplies,4818.08,Michelle Dunn,957.69
+ORD00978,2023-07-11,Central,Furniture,1276.54,Renee Carrillo,80.24
+ORD00979,2024-07-22,East,Furniture,2789.31,Erika Cooper,485.6
+ORD00980,2024-09-23,Central,Technology,182.78,Holly Burgess,36.41
+ORD00981,2025-04-09,Central,Furniture,2612.86,Andrew Raymond,348.98
+ORD00982,2023-10-04,West,Technology,1989.17,Joseph Young,482.83
+ORD00983,2023-10-18,East,Furniture,2499.69,Linda Ward,191.6
+ORD00984,2024-04-23,East,Furniture,2522.93,Stacy Anderson,173.54
+ORD00985,2023-08-07,East,Technology,4449.19,Alexis Davis,1032.42
+ORD00986,2023-08-12,East,Office Supplies,4672.93,Sherri Rollins,812.5
+ORD00987,2024-08-25,West,Office Supplies,4311.03,Karen Rogers,957.48
+ORD00988,2024-05-11,South,Office Supplies,2754.46,Eugene Jackson,437.15
+ORD00989,2023-07-17,West,Office Supplies,4774.54,Victoria Perez,532.84
+ORD00990,2023-11-08,East,Furniture,2957.45,Jennifer Mejia,753.49
+ORD00991,2024-07-09,East,Office Supplies,1117.93,Tiffany Burke,279.32
+ORD00992,2025-01-22,East,Office Supplies,2557.72,Laura Terrell,572.1
+ORD00993,2025-02-13,South,Office Supplies,3523.96,Daniel Smith,415.96
+ORD00994,2024-08-05,East,Technology,2706.0,Sarah White,534.59
+ORD00995,2025-04-03,West,Office Supplies,463.81,Larry Chandler,65.05
+ORD00996,2025-01-19,East,Technology,4608.58,Jeremy Norton,335.94
+ORD00997,2024-09-29,West,Technology,1667.41,Ryan Best,465.75
+ORD00998,2024-11-27,East,Office Supplies,3508.45,Michael Barnett,295.43
+ORD00999,2024-07-24,West,Furniture,1260.17,Elizabeth Smith,362.37
+ORD01000,2023-09-30,South,Furniture,2294.19,Gregg Thomas,370.51

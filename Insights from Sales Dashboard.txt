@@ -1,0 +1,9 @@
+Insights from Sales Dashboard:
+
+1. The Central region generated the highest total sales, leading all other regions.
+
+2. The Technology category dominated in sales, accounting for the largest share.
+
+3. Sales peaked in February 2025, indicating a possible post-holiday or Q1 sales boost.
+
+4. Furniture and Office Supplies categories had lower sales compared to Technology.
